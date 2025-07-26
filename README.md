@@ -7,6 +7,7 @@
 
 
 <!-- Introduction -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=23&pause=1000&color=F76CB1FB&width=435&lines=LANAYA;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 <!-- Animation Typing -->
 <!-- Image Gifs -->
 <!-- About Me Section -->
