@@ -9,8 +9,7 @@
 <!-- Image Gifs -->
 <img width="500" height="500" src="typing.gif" />
 <!-- About Me Section -->
-## About Me
-
+### About Me 
 - Subscribe to my YouTube Channel [ProgrammingWithLanaya](https://www.youtube.com/@ProgrammingWithLanaya)
 - I’m currently working on cybersecurity and AI-related projects
 - I enjoy learning something new every day
