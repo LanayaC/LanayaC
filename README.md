@@ -1,7 +1,7 @@
 <!-- Github Views -->
 <img align="left" src="https://komarev.com/ghpvc/?username=LanayaC&color=ff69b4" alt="Profile Counter Badge"/>
 <!-- Introduction -->
-<h1 align="center">✩ ¡Hola! My name is Lanaya ✩ </h1>
+<h1 align="center">✩ Hi My name is Lanaya ✩ </h1>
 <h3 align="center">Software Developer | Cybersecurity Enthuiast </h3>
 
 <div align="center">
