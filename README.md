@@ -12,7 +12,7 @@
  
 ### First-generation college student from NYC, now studying in Türkiye 
 <!-- Animation Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=23&duration=3500&pause=1000&color=F76CB1FB&width=435&lines=My+name+is+Lanaya;I+am+passionate+about+;Cybersecurity;Front+End+Engineering;Community+Engagement+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=23&duration=3500&pause=1000&color=F76CB1FB&width=600&lines=Automated+Vulnerability+Repair;LLM+Prompt+Engineering;Software+Supply+Chain+Security;Empirical+Software+Engineering)](https://git.io/typing-svg)
 <!-- Image Gifs -->
 <img width="300px" height="300px" src="typing.gif" align="right" />
 
@@ -23,6 +23,7 @@
 - I use empirical methods to test what actually works in software security, rather than what just sounds promising
 - Open to collaborating on research and impact-driven projects
 - Teaching assistant for CS courses at Bilkent University
+- Working toward a career in AI governance and security compliance (GRC), connecting software security research to how organizations manage AI risk
 
 ### For My Students
 Have a question about the course or an assignment? Email me at [aziza.carbonell@bilkent.edu.tr](mailto:aziza.carbonell@bilkent.edu.tr) or [book a time on my calendar](https://calendar.app.google/5kQQg79qyUBmVrHm7). No question is too small, and asking early is always better than struggling alone.
